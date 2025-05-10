@@ -11,6 +11,7 @@ Accessing and synthesizing information from multiple documents is crucial for re
    2.Enabling users to ask queries in natural language.
    
    3.Providing synthesized, concise, and accurate responses from the indexed documents.
+   
 The effectiveness of the system will be evaluated through diverse queries to test its accuracy and relevance.
 
 ### DESIGN STEPS:
