@@ -90,6 +90,12 @@ response = agent.query(
 print(str(response))
 ``` 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/0f8296fa-cb42-4730-9ad0-459fa6817a64)
+
+![image](https://github.com/user-attachments/assets/0ba72779-c0ad-47d0-afbd-63d87470d644)
+
+![image](https://github.com/user-attachments/assets/d96829df-35e5-4dbc-bc31-4c0909266bf6)
+
 
 ### RESULT:
 Thus, a multidocument retrieval agent using LlamaIndex to extract and synthesize information from multiple research articles is designed and implemented successfully.
